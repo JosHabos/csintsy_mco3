@@ -1,4 +1,4 @@
-### Case Study on Housing Prices
+# Case Study on Housing Prices
 ### _Done on Jupyter Notebook with Python_
 
 This repository contains the main notebook, originaly done on Google Collab. The dataset of interest is on the prices of Californian housing in a certain district, taken from a 1990 census. Other relative variables are listed and explained in the notebook. The dataset is taken from Kaggle: https://www.kaggle.com/datasets/camnugent/california-housing-prices
